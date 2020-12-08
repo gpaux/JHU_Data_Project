@@ -132,9 +132,9 @@ dtaSummary <- dtaMeanSd %>%
 ```
 ## Data extraction
 
-Finally, the `dtaSummary` dataset is saved in the `dtaSummary.csv` file.
+Finally, the `dtaSummary` dataset is saved in the `dtaSummary.txt` text file.
 
 ```{r}
 # Extract the final dataset 
-write.csv(dtaSummary, file = "dtaSummary.csv")
+write.csv(dtaSummary, file = "dtaSummary.txt")
 ```

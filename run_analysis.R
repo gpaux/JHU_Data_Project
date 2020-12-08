@@ -73,4 +73,4 @@ dtaSummary <- dtaMeanSd %>%
   summarize_all(mean)
 
 # Extract the final dataset 
-write.csv(dtaSummary, file = "dtaSummary.csv")
+write.table(dtaSummary, file = "dtaSummary.txt", row.name=FALSE)  
