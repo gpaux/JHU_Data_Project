@@ -1,10 +1,3 @@
----
-title: "CodeBook"
-author: "Gautier Paux"
-date: "06/12/2020"
-output: html_document
----
-
 A more detailed explanation of each step used in the run_analysis.R file to create the final dataset is provided below.
 
 ## Initialization

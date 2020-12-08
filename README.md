@@ -1,10 +1,3 @@
----
-title: "README"
-author: "Gautier Paux"
-date: "06/12/2020"
-output: html_document
----
-
 # Getting and Cleaning Data Course Project
 
 This repository is used for the submission of the Getting and Cleaning Data course project from the Johns Hopkins University. It has the instructions on how to run analysis on Human Activity recognition dataset.
